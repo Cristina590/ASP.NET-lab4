@@ -24,6 +24,10 @@
             throw new NotImplementedException();
         }
 
+        public void Delete(TEntity entity)
+        {
+            throw new NotImplementedException();
+        }
 
         public void DeleteRange(IEnumerable<TEntity> entities)
         {
